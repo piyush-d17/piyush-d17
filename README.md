@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyush Singh
 - 👀 I’m interested in codes
-- 🌱 I’m currently learning c programming language.
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piyushsinghchauhan@gmail.com
 
