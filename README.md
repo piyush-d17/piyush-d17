@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyush-d17
+- 👋 Hi, I’m @Piyush Singh
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning c programming language.
 - 💞️ I’m looking to collaborate on ...
